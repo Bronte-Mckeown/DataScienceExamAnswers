@@ -1,6 +1,6 @@
-# CFG Exams
+# Data Science Exams
 
-This repository contains all my answers for CFG exams.
+This repository contains all my answers for data science exams.
 
 ## Foundation
 

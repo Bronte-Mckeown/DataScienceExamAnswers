@@ -19,7 +19,7 @@ def no_of_handshakes(no_people):
     try:
 
         # Make sure it is an integer
-        if no_people.is_integer():
+        if isinstance(no_people, int):
             pass
         else:
             raise InvalidInput("Invalid input: Number of people must be an integer.")

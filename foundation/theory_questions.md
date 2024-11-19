@@ -2,6 +2,8 @@
 
 This file contains all my answers to the theory portion of the exam.
 
+Final mark: 100%
+
 ## Q1.1
 
 (Explain the difference between a primary key and a foreign key:
